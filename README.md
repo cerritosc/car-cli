@@ -327,4 +327,4 @@ java -jar target/car-cli-1.0.0.jar data/cars.xml --format XML --out result.xml
 
 ## 10) License / Attribution
 
-This project is authored as part of the PST.AG technical assessment. Please adapt as needed for submission (URLs, author, year).
+This project is authored as part of the PST.AG technical assessment.
