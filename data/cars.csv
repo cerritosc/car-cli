@@ -1,0 +1,6 @@
+id,brand,model,type,currency,price,releaseDate
+1,Toyota,Corolla,SEDAN,USD,15000,2020-05-01
+2,Ford,F-150,TRUCK,USD,32000,2019-10-15
+3,Tesla,Model X,SUV,USD,90000,2023-01-31
+4,Toyota,RAV4,SUV,USD,28000,2021-03-20
+5,Nissan,Altima,SEDAN,USD,22000,2022,31,01

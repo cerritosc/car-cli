@@ -1,0 +1,101 @@
+[ {
+  "id" : null,
+  "brand" : "Toyota",
+  "model" : null,
+  "type" : "OTHER",
+  "currency" : null,
+  "price" : null,
+  "prices" : { },
+  "releaseDate" : "2023-01-15",
+  "releaseYear" : 2023
+}, {
+  "id" : null,
+  "brand" : "Honda",
+  "model" : null,
+  "type" : "OTHER",
+  "currency" : null,
+  "price" : null,
+  "prices" : { },
+  "releaseDate" : "2022-11-20",
+  "releaseYear" : 2022
+}, {
+  "id" : null,
+  "brand" : "Ford",
+  "model" : null,
+  "type" : "OTHER",
+  "currency" : null,
+  "price" : null,
+  "prices" : { },
+  "releaseDate" : "2023-03-10",
+  "releaseYear" : 2023
+}, {
+  "id" : null,
+  "brand" : "Tesla",
+  "model" : null,
+  "type" : "OTHER",
+  "currency" : null,
+  "price" : null,
+  "prices" : { },
+  "releaseDate" : "2023-02-05",
+  "releaseYear" : 2023
+}, {
+  "id" : null,
+  "brand" : "BMW",
+  "model" : null,
+  "type" : "OTHER",
+  "currency" : null,
+  "price" : null,
+  "prices" : { },
+  "releaseDate" : "2022-09-12",
+  "releaseYear" : 2022
+}, {
+  "id" : null,
+  "brand" : "Audi",
+  "model" : null,
+  "type" : "OTHER",
+  "currency" : null,
+  "price" : null,
+  "prices" : { },
+  "releaseDate" : "2023-04-25",
+  "releaseYear" : 2023
+}, {
+  "id" : null,
+  "brand" : "Chevrolet",
+  "model" : null,
+  "type" : "OTHER",
+  "currency" : null,
+  "price" : null,
+  "prices" : { },
+  "releaseDate" : "2023-05-18",
+  "releaseYear" : 2023
+}, {
+  "id" : null,
+  "brand" : "Mercedes-Benz",
+  "model" : null,
+  "type" : "OTHER",
+  "currency" : null,
+  "price" : null,
+  "prices" : { },
+  "releaseDate" : "2022-12-01",
+  "releaseYear" : 2022
+}, {
+  "id" : null,
+  "brand" : "Nissan",
+  "model" : null,
+  "type" : "OTHER",
+  "currency" : null,
+  "price" : null,
+  "prices" : { },
+  "releaseDate" : "2023-08-22",
+  "releaseYear" : 2023
+}, {
+  "id" : null,
+  "brand" : "Hyundai",
+  "model" : null,
+  "type" : "OTHER",
+  "currency" : null,
+  "price" : null,
+  "prices" : { },
+  "releaseDate" : "2023-04-14",
+  "releaseYear" : 2023
+} ]
