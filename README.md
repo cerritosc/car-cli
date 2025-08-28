@@ -61,7 +61,8 @@ Expected (short) output should show usage, options and version.
 ## Quick Start (no Maven required)
 
 - From this repository (main branch):  
-  [dist/car-cli-1.0.0.jar](https://github.com/cerritosc/car-cli/blob/main/dist/car-cli-1.0.0.jar?raw=1)
+  [dist/car-cli-1.0.0.jar](https://github.com/cerritosc/car-cli/releases/tag/v1.0.0)
+  
 
 - From GitHub Releases (recommended):  
   https://github.com/cerritosc/car-cli/releases/latest
